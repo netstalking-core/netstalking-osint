@@ -193,12 +193,10 @@
 
 ## Другое
 
-**Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег:**
+- Инструменты, которые испольлузет [Bellingcat](https://www.bellingcat.com/):
+![OSINT Landscape](7b029189dc5caa545a167.png "Инструменты, которые испольлузет Bellingcat")
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o
-" target="_blank"><img src="http://img.youtube.com/vi/uBy2N0NmS2o/0.jpg" 
-alt="
-" width="720" height="576" border="10" /></a>
+- [Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег](http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o)
 
-[Подкасты от Michael Bazzell (владелец inteltechniques.com) по конфиденциальности и безопасности в сети](https://inteltechniques.com/podcast.html)
+- [Подкасты от Michael Bazzell (владелец inteltechniques.com) по конфиденциальности и безопасности в сети](https://inteltechniques.com/podcast.html)
 
