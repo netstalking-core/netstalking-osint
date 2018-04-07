@@ -1,7 +1,23 @@
-# Статьи и интересные блоги:
+# Подборка различных материалов по OSINT
 
 
-## Авторские статьи при поддержке [Нетсталкинг Оверграунд](vk.com/netover) и [Точки Сбора](t.me/netstalking):
+- [Подборка различных материалов по OSINT](#Подборка-различных-материалов-по-OSINT)
+  - [Статьи и интересные блоги](#Статьи-и-интересные-блоги)
+    - [Авторские статьи при поддержке Нетсталкинг Оверграунд и Точки Сбора](#Авторские-статьи-при-поддержке-Нетсталкинг-Оверграунд-и-Точки-Сбора)
+    - [На русском](#На-русском)
+    - [На английском](#На-английском)
+  - [Инструменты](#Инструменты)
+    - [ВКонтакте](#ВКонтакте)
+    - [Tor и .onion](#Tor-и-_onion)
+    - [Разное](#Разное)
+  - [Коллекции инструментов и других материалов](#Коллекции-инструментов-и-других-материалов)
+  - [Другое](#Другое)
+
+
+## Статьи и интересные блоги
+
+
+### Авторские статьи при поддержке [Нетсталкинг Оверграунд](vk.com/netover) и [Точки Сбора](t.me/netstalking)
 
 
 - [**Начальные знания**](http://telegra.ph/OSINT-chto-ehto-i-chem-nam-polezno-06-24)
@@ -31,7 +47,7 @@
 - [Сканирование онион-ресурсов](https://t.me/joinchat/AAAAAEmzkfIyn_sWn8oWNQ)
 
 
-## На русском:
+### На русском
 
 
 - [OSINT как метафора](https://kiwibyrd.org/2014/12/03/1415/)
@@ -63,7 +79,7 @@
 - [Пул IP адресов жертвы](http://telegra.ph/YA-tvoj-IP-vychislyu-03-03)
 
 
-## На английском:
+### На английском
 
 
 - [Автоматизация OSINT](http://www.automatingosint.com/blog/)
@@ -93,6 +109,96 @@
 - [Взлом криптомайнеров, используя техники OSINT](https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157)
 
 
-# Инструменты:
+## Инструменты
 
+
+### ВКонтакте
+
+
+- [Аналог Скотобазы](http://bazaman.ru/)
+
+- [Работающий аналог скотобазы, ищет фото загруженные пользователем в группы](http://poiskvk.org/)
+
+- [Визуализация друзей ВКонтакте](https://www.yasiv.com/vk)
+
+- [Скрытые друзья ВК и мониторинг активност](https://220vk.com/)
+
+- [Универсальный набор инструментов для парсинга онлайн](https://vk.barkov.net/)
+
+- _Упоминания в ВК (**ID** заменить на id пользователя) - https://vk.com/feed?obj=ID&q=&section=mentions_
+
+
+### Tor и .onion
+
+
+- [.onion crawling](https://github.com/DedSecInside/TorBoT)
+
+- [Clearnet поисковик по .onion сайтам](http://torscan.io/)
+
+- _[Инструмент для исследования Tor-сети](https://github.com/s-rah/onionscan)_
+
+  - [Гайд в 4 частях](https://github.com/BaltimoreChad/pyOnionScan)
+  
+  - [Краткая инструкция на русском](https://codeby.net/forum/threads/onionscan.60969/)
+
+### Разное
+
+
+- [Трэкинг людей](https://github.com/boxug/trape)
+
+- [OSINT'им видео](http://www.invid-project.eu/tools-and-services/invid-verification-plugin/)
+
+- [Автоматизация OSINT'а, есть поддержа Телеграм](https://github.com/Te-k/harpoon)
+
+- [Расширение браузера для быстрых заметок](https://mozgi.net/HowTo)
+
+- [Поиск YouTube видео по какому-то конкретному городу](http://youtube.github.io/geo-search-tool/search.html)
+
+- [Расширение для Burp Suite собирабщие информацию с LinkedIn по результатам поиск Google и Bing. Имеет удобный вывод в таблицу Excel](https://github.com/clr2of8/GatherContacts)
+
+- [Хеш finder (md5 и другие)](http://finder.insidepro.team/)
+
+
+
+## Коллекции инструментов и других материалов
+
+- **[Документы найденные в netstalking_documents и от участников Точки Сбора](https://drive.google.com/drive/folders/13Gi6WwfnwMX4LrpAdadPUA7tYUTWhmKr?usp=sharing)**
+
+- [Awesome Osint](https://github.com/jivoi/awesome-osint)
+
+- [Awesome Osint [2]](https://github.com/Ph055a/awesome_osint)
+
+- [](https://start.me/p/ZGAzN7/verification-toolset)
+
+- [](https://start.me/p/m6XQ08/osint)
+
+- [Links for OSINT](http://www.onstrat.com/osint/)
+
+- [Список ресурсов которые испольует Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#)
+
+- [Перечень OSINT-софта, иногда даже бесплатного, которым можно заменить или дополнить Мальтегу](https://pastebin.com/gzELdhgG)
+
+- [Обновленная подборка одного треда со старого форума](https://cryptpad.fr/pad/#/1/view/qigKGaKaCcaVWmUcVCb-6w/KOWWSMpbJwB4CuzPyh0jWIRy3S7MXGqXHiMI5WMMwUQ/)
+
+- [Сайты для OSINT'а](https://midasearch.org/osint-websites/)
+
+- [Различные сайты/инструменты, каждый с описанием](https://tomokodiscovery.com/free-tools-osint-socmint-dark-web-darknet-tor-bitcoin/)
+
+- [Топ 100 инструментов для кибербезопасности](https://n0where.net/best-free-open-source-cybersecurity-tools)
+
+- [Подборка других подборок :)](https://drive.google.com/drive/folders/0BwyWDQ59jRVGMFp3UnBfeUEzanM)
+
+- [Бесплатные ресурсы](https://www.toddington.com/resources/)
+
+
+## Другое
+
+**Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег:**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o
+" target="_blank"><img src="http://img.youtube.com/vi/uBy2N0NmS2o/0.jpg" 
+alt="
+" width="720" height="576" border="10" /></a>
+
+[Подкасты от Michael Bazzell (владелец inteltechniques.com) по конфиденциальности и безопасности в сети](https://inteltechniques.com/podcast.html)
 
