@@ -67,6 +67,8 @@
 
 - [Бизнес как разведка](http://hrazvedka.ru)
 
+- [Статьи от Джастина из bellingcat](https://ru.bellingcat.com/author/justin-seitz/)
+
 - [Инструкция по определению даты публикации материала в интернете (также на сайте много интересного материала по отличию правды от фейков)](https://www.stopfake.org/kak-uznat-datu-publikatsii-materialov-v-internete/)
 
 - _Статьи по ОСИНТу от [Вастрика](vas3k.ru):_
