@@ -166,7 +166,7 @@
 
 ## Коллекции инструментов и других материалов
 
-- **[Документы найденные в netstalking_documents и от участников Точки Сбора](https://drive.google.com/drive/folders/13Gi6WwfnwMX4LrpAdadPUA7tYUTWhmKr?usp=sharing)**
+- **[Документы найденные в netstalking_documents и от участников Точки Сбора](https://yadi.sk/d/kRpGIR6U3VgmeM)**
 
 - [Awesome Osint](https://github.com/jivoi/awesome-osint)
 
