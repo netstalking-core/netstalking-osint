@@ -36,6 +36,12 @@
   
 - [Дорки для нетсталкинга](http://telegra.ph/Dorki-dlya-netstalkinga-11-15)
 
+- _Учимся работать с графами:_
+
+  - [Визуализация данных OSINT](http://telegra.ph/Rabota-s-grafami-ch1-Vizualizaciya-dannyh-OSINT-04-28)
+  
+  - [Поведенческий анализ веб приложения](http://telegra.ph/Rabota-s-grafami-ch2-Povedencheskij-analiz-veb-prilozheniya-04-28)
+
 - _Материалы, касающиеся финальных этапов OSINT (анализ, отчёт):_
 
   - [Майндмаппинг](http://telegra.ph/Majndmapping-Nashi-znaniya-samye-krasivye-07-15 )
@@ -159,6 +165,8 @@
 - [Поиск YouTube видео по какому-то конкретному городу](http://youtube.github.io/geo-search-tool/search.html)
 
 - [Расширение для Burp Suite собирабщие информацию с LinkedIn по результатам поиск Google и Bing. Имеет удобный вывод в таблицу Excel](https://github.com/clr2of8/GatherContacts)
+
+- [Флеш-инструмент составления и хранения карт связей между влиятельными людьми и компаниями](http://www.theyrule.net/)
 
 - [Хеш finder (md5 и другие)](http://finder.insidepro.team/)
 
