@@ -58,11 +58,11 @@
 
 - _Серия пятиминутных кейсов от [CapyB](t.me/Capy_B):_
 
-  - [Поиск программных инструментов](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-1-01-16)
+  1. [Поиск программных инструментов](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-1-01-16)
   
-  - [Использование Google дорков](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-2-01-16)
+  2. [Использование Google дорков](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-2-01-16)
   
-  - [Пробив человека](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-3-03-12)
+  3. [Пробив человека](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-3-03-12)
   
 - [Дорки для нетсталкинга](http://telegra.ph/Dorki-dlya-netstalkinga-11-15)
 
