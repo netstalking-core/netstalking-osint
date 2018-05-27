@@ -240,7 +240,7 @@
 
 
 - Инструменты, которые испольлузет [Bellingcat](https://www.bellingcat.com/):
-![OSINT Landscape](7b029189dc5caa545a167.png "Инструменты, которые испольлузет Bellingcat")
+[![OSINT Landscape](7b029189dc5caa545a167.png "Инструменты, которые испольлузет Bellingcat")](https://raw.githubusercontent.com/S0Ulle33/netstalking-osint/master/7b029189dc5caa545a167.png)
 
 - [Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег](http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o)
 
