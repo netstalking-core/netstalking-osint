@@ -66,7 +66,7 @@
 
 - [Учимся работать с Maltego](http://telegra.ph/Maltego-priruchaem-12-29)
 
-- _Серия пятиминутных кейсов от [CapyB](https://t.me/Capy_B):_
+- _Кейсы от [CapyB](https://t.me/Capy_B):_
 
   - [Поиск программных инструментов](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-1-01-16)
   
@@ -98,6 +98,8 @@
 ### [↑](#Оглавление) На русском
 
 
+- [**Google дорки**](https://habrahabr.ru/post/283210/)
+
 - [OSINT как метафора](https://kiwibyrd.org/2014/12/03/1415/)
 
 - [Разбор кейсов из CTF](https://habrahabr.ru/post/338078/)
@@ -108,15 +110,13 @@
 
 - [Как «пробить» человека в Интернет: используем операторы Google и логику](https://habrahabr.ru/company/echelon/blog/321754/)
 
-- [**Google дорки**](https://habrahabr.ru/post/283210/)
-
 - [Анализ и визуализация эго-сети на примере аккаунта сети VKontakte с помощью Gephi](https://rcsoc.spbu.ru/v-pomoshch-polzovatelyam/433-gephi-analiz-i-vizualizatsiya-ego-seti-na-primere-akkaunta-vkontakte-vk-com.html)
 
 - [Статьи от Джастина из bellingcat](https://ru.bellingcat.com/author/justin-seitz/)
 
 - [Инструкция по определению даты публикации материала в интернете (также на сайте много интересного материала по отличию правды от фейков)](https://www.stopfake.org/kak-uznat-datu-publikatsii-materialov-v-internete/)
 
-- _Статьи по ОСИНТу от [Вастрика](https://vas3k.ru):_
+- _Статьи от [Вастрика](https://vas3k.ru):_
 
   - [Как найти аккаунты и личные данные человека в сети, инструменты для деанона по открытым источникам](http://vas3k.ru/blog/389/)
   
