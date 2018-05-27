@@ -33,6 +33,8 @@
 
 - [Чудеса OSINT](https://t.me/russianosint)
 
+- [Пособие по журналистике данных](https://ria.ru/files/book/_site/index.html)
+
 
 ### На английском
 
@@ -44,6 +46,8 @@
 - [Книга о том, как проверять, использовать и преподносить информацию во время катастроф](http://verificationhandbook.com/)
 
 - [bellingcat. the home of online investigations](https://www.bellingcat.com/)
+
+- [The Data Journalsim Handbook](https://datajournalismhandbook.org/)
 
 
 ## Статьи
