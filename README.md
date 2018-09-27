@@ -34,7 +34,6 @@
 - [bellingcat. раследования, открытые для каждого](https://ru.bellingcat.com)
 - [Mini Intelligence Team](http://minteam.pw/)
 - [Чудеса OSINT](https://t.me/russianosint)
-- [Пособие по журналистике данных](https://ria.ru/files/book/_site/index.html)
 
 ### [↑](#Оглавление) На английском
 
@@ -89,7 +88,7 @@
 - _Разведка и проникновение на корабли:_
   - [OSINT from ship satcoms](https://www.pentestpartners.com/security-blog/osint-from-ship-satcoms/)
   - [Tracking & hacking ships with Shodan & AIS](https://www.pentestpartners.com/security-blog/tracking-hacking-ships-with-shodan-ais/)
-- [Находим геолокацию фотографии по отражению в стекле](http://blog.ioactive.com/2014/05/glass-reflections-in-pictures-osint.html)
+- [Находим геолокацию фотографии по отражению в стекле](https://ioactive.com/glass-reflections-in-pictures-osint-more-accurate-location/)
 - [Находим где сделана фотография и откуда (quiz от Philipp Dudek)](https://medium.com/@sector035/quiztime-the-one-that-got-me-started-5a522c76bc89)
 - [Пост с детальным разбором поискового квеста, связанного с узнаванием места по фотографи](https://medium.com/@sector035/quiztime-february-28-2018-5a30deeaf4a6)
 - [Как использовать CREST коллекцию от ЦРУ](http://www.thephora.net/forum/showthread.php?t=118095)
@@ -102,7 +101,6 @@
 ### [↑](#Оглавление) ВКонтакте
 
 - [Аналог Скотобазы](http://bazaman.ru/)
-- [Работающий аналог скотобазы, ищет фото загруженные пользователем в группы](http://poiskvk.org/)
 - [Визуализация друзей ВКонтакте](https://www.yasiv.com/vk)
 - [Скрытые друзья ВК и мониторинг активности](https://220vk.com/)
 - [Универсальный набор инструментов для парсинга онлайн](https://vk.barkov.net/)
@@ -111,7 +109,6 @@
 ### [↑](#Оглавление) Tor и .onion
 
 - [.onion crawling](https://github.com/DedSecInside/TorBoT)
-- [Clearnet поисковик по .onion сайтам](http://torscan.io/)
 - _[Инструмент для исследования Tor-сети](https://github.com/s-rah/onionscan)_
   - [Гайд в 4 частях](https://github.com/BaltimoreChad/pyOnionScan)
   - [Краткая инструкция на русском](https://codeby.net/forum/threads/onionscan.60969/)
@@ -133,15 +130,12 @@
 - **[Документы найденные в netstalking_documents и от участников Точки Сбора](https://yadi.sk/d/kRpGIR6U3VgmeM)**
 - [Awesome Osint](https://github.com/jivoi/awesome-osint)
 - [Awesome Osint [2]](https://github.com/Ph055a/awesome_osint)
-- [](https://start.me/p/ZGAzN7/verification-toolset)
-- [](https://start.me/p/m6XQ08/osint)
 - [Links for OSINT](http://www.onstrat.com/osint/)
 - [Список ресурсов которые испольует Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#)
 - [Перечень OSINT-софта, иногда даже бесплатного, которым можно заменить или дополнить Мальтегу](https://pastebin.com/gzELdhgG)
 - [Обновленная подборка одного треда со старого форума](https://cryptpad.fr/pad/#/1/view/qigKGaKaCcaVWmUcVCb-6w/KOWWSMpbJwB4CuzPyh0jWIRy3S7MXGqXHiMI5WMMwUQ/)
 - [Сайты для OSINT'а](https://midasearch.org/osint-websites/)
 - [Различные сайты/инструменты, каждый с описанием](https://tomokodiscovery.com/free-tools-osint-socmint-dark-web-darknet-tor-bitcoin/)
-- [Топ 100 инструментов для кибербезопасности](https://n0where.net/best-free-open-source-cybersecurity-tools)
 - [Подборка других подборок](https://drive.google.com/drive/folders/0BwyWDQ59jRVGMFp3UnBfeUEzanM)
 - [Бесплатные ресурсы](https://www.toddington.com/resources/)
 
