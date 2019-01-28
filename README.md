@@ -49,7 +49,10 @@
 ### [↑](#Оглавление) Авторские статьи при поддержке [Нетсталкинг Оверграунд](https://vk.com/netover) и [Точки Сбора](https://t.me/netstalking)
 
 - [**Начальные знания**](http://telegra.ph/OSINT-chto-ehto-i-chem-nam-polezno-06-24)
-- [Учимся работать с Maltego](http://telegra.ph/Maltego-priruchaem-12-29)
+- [Учимся работать с Maltego, ч.1](http://telegra.ph/Maltego-priruchaem-12-29)
+- [Поиск необычного и малоизвестного про свой город](https://t.me/netstalking_overground/37)
+- [Методы поиска в Telegram](http://telegra.ph/Pervye-poiski-v-Telegram-12-09-2)
+- [Картографический сталкинг](http://telegra.ph/Kartograficheskij-stalking-12-30)
 - _Кейсы от [CapyB](https://t.me/Capy_B):_
   - [Поиск программных инструментов](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-1-01-16)
   - [Использование Google дорков](http://telegra.ph/Pyatiminutnyj-kejs-po-OSINT-2-01-16)
