@@ -24,7 +24,7 @@
   - [Разное](#-Разное)
 - [Другие подборки](#-Другие-подборки)
 - [Другое](#-Другое)
-
+- [Агрегаторы данных](#-Агрегаторы-данных)
 
 ## Ресурсы
 
@@ -105,7 +105,7 @@
 
 ### [↑](#Оглавление) ВКонтакте
 
-- [Аналог Скотобазы](http://bazaman.ru/)
+- [Аналог Скотобазы](http://bazaman.ru/) - [ещё один](https://vk.watch/)
 - [Визуализация друзей ВКонтакте](https://www.yasiv.com/vk)
 - [Скрытые друзья ВК и мониторинг активности](https://220vk.com/)
 - [Универсальный набор инструментов для парсинга онлайн](https://vk.barkov.net/)
@@ -151,3 +151,8 @@
 [![OSINT Landscape](7b029189dc5caa545a167.png "Инструменты, которые испольлузет Bellingcat")](https://raw.githubusercontent.com/S0Ulle33/netstalking-osint/master/7b029189dc5caa545a167.png)
 - [Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег](http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o)
 - [Подкасты от Michael Bazzell (владелец inteltechniques.com) по конфиденциальности и безопасности в сети](https://inteltechniques.com/podcast.html)
+
+## [↑](#Оглавление) Агрегаторы данных
+
+- [The Repository of Industrial Security Incidents](https://www.risidata.com/Database) - список инцидентов в промышленности, вызванных нарушениями кибербезопасности
+- [Сервера с научными данными (нетсталкерский проект)](https://t.me/netstalking_open_science)
