@@ -84,6 +84,9 @@
   - [Как найти аккаунты и личные данные человека в сети, инструменты для деанона по открытым источникам](http://vas3k.ru/blog/389/)
   - [Как определить монтаж на фото. Разоблачаем фейки, фотошоп и ретушь](http://vas3k.ru/blog/390/)
   - [Как найти место по фотографии и сгонять за заброшенный особняк](http://vas3k.ru/blog/388/)
+- [Как создать свой FindFace](https://zen.yandex.ru/media/imonfire_official/kak-sozdat-svoi-findface-5c7a9e1e0a5f4400b3a2fc63)
+- [Эрозия информации: почему важно быстро действовать и как наверстать упущенное](https://telegra.ph/EHroziya-informacii-v-OSINT-pochemu-vazhno-bystro-dejstvovat-i-kak-naverstat-upushchennoe-10-19)
+- [Глобальные и местные индикаторы в OSINT](https://telegra.ph/Quiztime-12092019-Gde-ehto-mesto-Globalnye-i-mestnye-identifikatory-09-28)
 - [Пул IP адресов жертвы](http://telegra.ph/YA-tvoj-IP-vychislyu-03-03)
 - [Заметка о ЕГЭ](https://telegra.ph/Zametka-o-EGEH-07-01)
 
