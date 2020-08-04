@@ -32,12 +32,21 @@
 
 - [Бизнес как разведка](http://hrazvedka.ru)
 - [bellingcat. раследования, открытые для каждого](https://ru.bellingcat.com)
-- [Mini Intelligence Team](http://minteam.pw/)
-- [Чудеса OSINT](https://t.me/russianosint)
+- [HowToFind (бот)](https://t.me/HowToFind_RU_bot) - актуальные инструменты для OSINT
+- [HowToFind (канал)](https://t.me/HowToFind) - новые и интересные методы
+- [OSINT mindset](https://t.me/osint_mindset) - OSINT как образ мышления, методы и инструменты
+- [PulSe](https://t.me/Pulsechanel) - OSINT и инфобез, практические таски
+- [OSINT club](https://t.me/osint_club_channel) - материалы и переводы
+- [Osintology](https://t.me/osintology) - сетевая разведка
+- [Чудеса OSINT](https://t.me/russianosint) - околополитические кейсы
+- [Russian OSINT](https://t.me/Russian_OSINT) - интервью с российскими представителями около-OSINT и ИБ 
 
 ### [↑](#Оглавление) На английском
 
+- [IntelTechniques](https://inteltechniques.com/)
+- [OSInt daily News](https://t.me/Osintlatestnews) - актуальные материалы ссылками в Telegram
 - [Автоматизация OSINT](http://www.automatingosint.com/blog/)
+- [OSINT Techniques](https://www.osinttechniques.com/)
 - [Различные кейсы и гайды](https://exposingtheinvisible.org/)
 - [Книга о том, как проверять, использовать и преподносить информацию во время катастроф](http://verificationhandbook.com/)
 - [bellingcat. the home of online investigations](https://www.bellingcat.com/)
@@ -89,6 +98,14 @@
 - [Глобальные и местные индикаторы в OSINT](https://telegra.ph/Quiztime-12092019-Gde-ehto-mesto-Globalnye-i-mestnye-identifikatory-09-28)
 - [Пул IP адресов жертвы](http://telegra.ph/YA-tvoj-IP-vychislyu-03-03)
 - [Заметка о ЕГЭ](https://telegra.ph/Zametka-o-EGEH-07-01)
+- [Целенаправленные атаки: разведка на основе открытых источников](https://xakep.ru/2018/05/14/osint/)
+- [Боевой OSINT. Разбираем современные методы сетевой разведки](https://xakep.ru/2019/09/06/real-osint/)
+- [Шпион, которого никто не ищет](https://www.forbes.ru/karera/rynok-truda/52723-shpion-kotorogo-nikto-ne-ishchet)
+- [Как уже снова не получить телефон (почти) любой красотки в Москве, или интересная особенность MT_FREE](https://habr.com/ru/post/351114/)
+
+#### Блоги
+
+- [Публикации компании Postuf](https://habr.com/ru/users/Postuf/posts/)
 
 ### [↑](#Оглавление) На английском
 
@@ -103,6 +120,9 @@
 - [Гайд по использованию Inquisitor](https://penafieljlm.com/2017/07/14/inquisitor/#inquisitor)
 - [Взлом криптомайнеров, используя техники OSINT](https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157)
 
+#### Блоги
+
+- [Sector035](https://medium.com/@sector035) - Week in OSINT, инфобез, геолокация
 
 ## Инструменты
 
