@@ -41,6 +41,10 @@
 - [Чудеса OSINT](https://t.me/russianosint) - околополитические кейсы
 - [Russian OSINT](https://t.me/Russian_OSINT) - интервью с российскими представителями около-OSINT и ИБ 
 
+#### Блоги
+
+- [Публикации компании Postuf](https://habr.com/ru/users/Postuf/posts/)
+
 ### [↑](#Оглавление) На английском
 
 - [IntelTechniques](https://inteltechniques.com/)
@@ -52,6 +56,19 @@
 - [bellingcat. the home of online investigations](https://www.bellingcat.com/)
 - [The Data Journalsim Handbook](https://datajournalismhandbook.org/)
 
+#### Блоги
+
+- [Sector035](https://medium.com/@sector035), [Twitter](https://twitter.com/Inteltechniques) - Week in OSINT, инфобез, геолокация
+- [OSINTCurio.us](https://osintcurio.us/), [Twitter](https://twitter.com/OSINTCurious) - профессионалы OSINT, пишут видео и подкасты, ведут курсы
+- [NixIntel](https://nixintel.info/), [Twitter](https://twitter.com/Nixintel) - OSINT, Linux, форензика и ИБ
+- [MW-OSINT](https://www.keyfindings.blog/), [Twitter](https://twitter.com/MWOsint) - блог бывшего немецкого агента SIGINT
+- [Dutch OSINT guy](https://www.dutchosintguy.com), [Twitter](https://twitter.com/dutch_osintguy) - известный энтузиаст OSINT, OPSEC, расследования по терроризму
+- [Sector035](https://sector035.nl), [Twitter](https://twitter.com/sector035) - ИБ, геолокация, OSINT
+- [WebBreacher](https://webbreacher.com/), [Twitter](https://twitter.com/WebBreacher) - основатель OSINTCurious, создатель курсов и инструментов OSINT
+- [Technisette](https://www.technisette.com/p/home), [Twitter](https://twitter.com/technisette) - один из основателей OSINTCurious
+- [Loránd Bodo](https://radter-osint.com), [Twitter](https://twitter.com/LorandBodo) - один из членов OSINTCurious, специализируется по терроризму
+- [NullByte](https://null-byte.wonderhowto.com), [Twitter](https://twitter.com/nullbyte/) - HowTo по OSINT
+- [Benjamin Strick](https://benjaminstrick.com), [Twitter](https://twitter.com/BenDoBrown) - аналитика, расследования, open source
 
 ## Статьи
 
@@ -103,10 +120,6 @@
 - [Шпион, которого никто не ищет](https://www.forbes.ru/karera/rynok-truda/52723-shpion-kotorogo-nikto-ne-ishchet)
 - [Как уже снова не получить телефон (почти) любой красотки в Москве, или интересная особенность MT_FREE](https://habr.com/ru/post/351114/)
 
-#### Блоги
-
-- [Публикации компании Postuf](https://habr.com/ru/users/Postuf/posts/)
-
 ### [↑](#Оглавление) На английском
 
 - [Удаляем "следы" из сети с помощью OSINT техник](https://www.learnallthethings.net/blog/2018/1/23/opting-out-like-a-boss-the-osint-way)
@@ -119,10 +132,6 @@
 - [Как использовать CREST коллекцию от ЦРУ](http://www.thephora.net/forum/showthread.php?t=118095)
 - [Гайд по использованию Inquisitor](https://penafieljlm.com/2017/07/14/inquisitor/#inquisitor)
 - [Взлом криптомайнеров, используя техники OSINT](https://medium.com/@s3yfullah/hacking-cryptocurrency-miners-with-osint-techniques-677bbb3e0157)
-
-#### Блоги
-
-- [Sector035](https://medium.com/@sector035) - Week in OSINT, инфобез, геолокация
 
 ## Инструменты
 
