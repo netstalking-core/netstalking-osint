@@ -58,12 +58,11 @@
 
 #### Блоги
 
-- [Sector035](https://medium.com/@sector035), [Twitter](https://twitter.com/Inteltechniques) - Week in OSINT, инфобез, геолокация
+- [Sector035](https://sector035.nl), [Twitter](https://twitter.com/sector035) - Week in OSINT, инфобез, геолокация
 - [OSINTCurio.us](https://osintcurio.us/), [Twitter](https://twitter.com/OSINTCurious) - профессионалы OSINT, пишут видео и подкасты, ведут курсы
 - [NixIntel](https://nixintel.info/), [Twitter](https://twitter.com/Nixintel) - OSINT, Linux, форензика и ИБ
 - [MW-OSINT](https://www.keyfindings.blog/), [Twitter](https://twitter.com/MWOsint) - блог бывшего немецкого агента SIGINT
 - [Dutch OSINT guy](https://www.dutchosintguy.com), [Twitter](https://twitter.com/dutch_osintguy) - известный энтузиаст OSINT, OPSEC, расследования по терроризму
-- [Sector035](https://sector035.nl), [Twitter](https://twitter.com/sector035) - ИБ, геолокация, OSINT
 - [WebBreacher](https://webbreacher.com/), [Twitter](https://twitter.com/WebBreacher) - основатель OSINTCurious, создатель курсов и инструментов OSINT
 - [Technisette](https://www.technisette.com/p/home), [Twitter](https://twitter.com/technisette) - один из основателей OSINTCurious
 - [Loránd Bodo](https://radter-osint.com), [Twitter](https://twitter.com/LorandBodo) - один из членов OSINTCurious, специализируется по терроризму
