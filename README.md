@@ -91,7 +91,6 @@
   - [Диаграммы, схемы, графы](http://telegra.ph/Diagrammy-shemy-grafy-10-30)
 - [Пример успешного выслеживания человека (по аккаунтам, ресурсам форумов и соцсетей, стилистике)](http://telegra.ph/Delo-Bogatova-Kto-takoj-Ajrat-Bashirov-05-02)
 - [Пример использования аналитического и поискового софта в реальной нетсталкерской задаче](http://telegra.ph/Oni-vam-ne-novosti-04-16)
-- [Сканирование онион-ресурсов](https://t.me/joinchat/AAAAAEmzkfIyn_sWn8oWNQ)
 - [Особенности маркировки секретных документов ](https://telegra.ph/O-sekretnyh-dokumentah-01-13)
 
 ### [↑](#Оглавление) На русском
@@ -147,7 +146,6 @@
 - [.onion crawling](https://github.com/DedSecInside/TorBoT)
 - _[Инструмент для исследования Tor-сети](https://github.com/s-rah/onionscan)_
   - [Гайд в 4 частях](https://github.com/BaltimoreChad/pyOnionScan)
-  - [Краткая инструкция на русском](https://codeby.net/forum/threads/onionscan.60969/)
 
 ### [↑](#Оглавление) Разное
 
@@ -167,7 +165,7 @@
 - [Awesome Osint](https://github.com/jivoi/awesome-osint)
 - [Awesome Osint [2]](https://github.com/Ph055a/awesome_osint)
 - [Links for OSINT](http://www.onstrat.com/osint/)
-- [Список ресурсов которые испольует Bellingcat](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#)
+- [Список ресурсов которые испольует Bellingcat](https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#)
 - [Перечень OSINT-софта, иногда даже бесплатного, которым можно заменить или дополнить Мальтегу](https://pastebin.com/gzELdhgG)
 - [Обновленная подборка одного треда со старого форума](https://cryptpad.fr/pad/#/1/view/qigKGaKaCcaVWmUcVCb-6w/KOWWSMpbJwB4CuzPyh0jWIRy3S7MXGqXHiMI5WMMwUQ/)
 - [Сайты для OSINT'а](https://midasearch.org/osint-websites/)
@@ -180,6 +178,7 @@
 
 - Инструменты, которые испольлузет [Bellingcat](https://www.bellingcat.com/):
 [![OSINT Landscape](7b029189dc5caa545a167.png "Инструменты, которые испольлузет Bellingcat")](https://raw.githubusercontent.com/S0Ulle33/netstalking-osint/master/7b029189dc5caa545a167.png)
+  - [Оригинал изображения](https://pbs.twimg.com/media/DXM63T0WsAA7E-a.jpg:large)
 - [Выступление на DEF CON 25, Recon Village по SkipTracing'у. Или OSINT людей для развлечения и денег](http://www.youtube.com/watch?feature=player_embedded&v=uBy2N0NmS2o)
 - [Подкасты от Michael Bazzell (владелец inteltechniques.com) по конфиденциальности и безопасности в сети](https://inteltechniques.com/podcast.html)
 
